@@ -1,3 +1,4 @@
+![College Chaos](banner.png)
 > ⚠️ **WARNING: USE AT YOUR OWN RISK.**
 > **If you get caught, it's on you.**
 
