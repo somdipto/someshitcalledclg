@@ -1,4 +1,4 @@
-Here is the compiled content for your lab manual, covering Experiments 1 through 10. You can copy and paste this directly into your document editor.
+Here is the compiled content for your lab manual, covering Experiments 1 through 10. You can copy and paste this directly into your document editor..
 
 -----
 
